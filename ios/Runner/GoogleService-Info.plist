@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>385665978766-71r2k14kqriv85v8s0s8cfb0nv0j6umf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.385665978766-71r2k14kqriv85v8s0s8cfb0nv0j6umf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBSPMVRZcPuPcdhwLfHmUXtyhntEswPBmY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>385665978766</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.todolist</string>
+	<key>PROJECT_ID</key>
+	<string>mytodolist-f0f01</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mytodolist-f0f01.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:385665978766:ios:a9c8b15e09720ac86e14df</string>
+</dict>
+</plist>
